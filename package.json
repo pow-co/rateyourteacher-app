@@ -26,7 +26,7 @@
       "@hapi/vision": "^6.1.0",
       "commander": "^9.3.0",
       "dotenv": "^10.0.0",
-      "hapi-swagger": "^14.3.0",
+      "hapi-swagger": "^14.5.5",
       "joi": "^17.6.0",
       "nconf": "^0.12.0",
       "node-cron": "^3.0.0",
